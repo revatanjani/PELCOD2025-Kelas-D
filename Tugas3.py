@@ -3,5 +3,5 @@ angka_favorit= int(input("masukan angka favorit"))
 
 if angka_favorit % 2 == 0 :
     print ("angka genap")
-else:
-    printf ("angka ganjil")
+else :
+    print ("angka ganjil")
